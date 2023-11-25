@@ -1,3 +1,16 @@
 ### Hi there 👋
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/#EA4335-3DDC84?style=flat-square&logo=#EA4335&logoColor=white"/></a>
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:djop1212@gmail.com">
+        <img src="https://img.shields.io/badge/
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+   
+        <img src="https://img.shields.io/badge/
+        KakaoTalk(djop1212)-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+   
+    <a href="https://www.instagram.com/choi_sae27">
+        <img src="https://img.shields.io/badge/
+        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
