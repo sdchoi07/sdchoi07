@@ -1,5 +1,5 @@
 ### Hi there 👋
- <img src="https://capsule-render.vercel.app/api?type=wave&color=F8B195&height=300&section=header&text=Welcome to my git!%20render&fontSize=90" />
+ <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome to my git!%20render&fontSize=90" />
         
 ## 📞 Contact 📞
 <a href="mailto:djop1212@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
