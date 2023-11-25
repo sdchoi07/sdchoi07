@@ -1,4 +1,4 @@
-<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=Rect&color=A3DCBE&height=300&section=header&text=Welcome%20to%20My%20Git&fontSize=90" />
  <br/>
  <br/>
@@ -15,7 +15,7 @@
 <br/>
 <br/>
  
-<h3 align="center">📚 SKill 📚</h3>
+## 📚 SKill 📚
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"> </a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> </a>
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"> </a>
@@ -31,4 +31,3 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={djop})](https://solved.ac/{djop})
 
-</div>
