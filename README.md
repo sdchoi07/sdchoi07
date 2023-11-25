@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+        
 ## 📞 Contact 📞
 
     <a href="mailto:djop1212@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
