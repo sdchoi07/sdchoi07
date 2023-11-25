@@ -37,5 +37,5 @@
 <br/>
 <br/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={djop})](https://solved.ac/{djop})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=djop)](https://solved.ac/djop)
 
